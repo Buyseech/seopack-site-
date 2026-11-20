@@ -23,7 +23,6 @@ Sends to Web3Forms (same account as buyseech.com), which emails each order to ig
 
 ## Still to do
 
-- **Delivery time:** replace `[X] business days` in the FAQ (`public/index.html`)
 - **Payment:** the form collects the order; add a Stripe (or similar) payment link if you want people to pay on the page
 - **Google Analytics:** create a separate GA4 property for seopack.net and paste its snippet where the comment says, in `index.html` and `privacy.html`
 - **Social sharing image** (1200 x 630); Igor's photo is used until then
